@@ -1,2 +1,3 @@
 Изменение 1 develop
 Изменение 2 develop
+Изменение 3 develop
